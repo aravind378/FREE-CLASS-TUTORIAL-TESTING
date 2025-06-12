@@ -343,6 +343,13 @@
 .courses p {
     font-weight: 600;
 }
+.fa-circle-check {
+    color: green;
+}
+.fa-circle-play {
+    font-size: 17px;
+    color: #f39c12;
+}
 #complete-btn {
     border-radius: 8px;
     padding: 8px;
