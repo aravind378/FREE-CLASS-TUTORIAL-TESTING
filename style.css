@@ -307,7 +307,7 @@
     flex-direction: column;
     gap: 10px;
     width: 25%;
-    border-left: 2px solid gray;
+    border-left: 2px solid rgb(233, 232, 232);
     padding-left: 50px;
 }
 .right-child-1 p {
