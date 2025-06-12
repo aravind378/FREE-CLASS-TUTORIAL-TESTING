@@ -571,6 +571,9 @@ footer {
     .courses p {
         font-size: 14px;
     }
+    .fa-circle-play {
+        font-size: 17px;
+    }
     #complete-btn {
         font-size: 14px;
     }
